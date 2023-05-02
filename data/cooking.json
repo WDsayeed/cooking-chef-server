@@ -1,0 +1,25 @@
+{
+        "id": 1,
+        "name": "Zakir Hossain",
+        "img_url": "https://example.com/zakir-hossain.jpg",
+        "specialty": "Bangladeshi cuisine",
+        "restaurants": ["Dhaka Kitchen"],
+        "experience": "25+ years",
+        "num_recipes": 300,
+        "awards": ["Best Chef Award 2020"],
+        "recipes": [
+          {
+            "name": "Chicken Biryani",
+            "img_url": "https://example.com/chicken-biryani.jpg"
+          },
+          {
+            "name": "Beef Curry",
+            "img_url": "https://example.com/beef-curry.jpg"
+          },
+          {
+            "name": "Lentil Soup",
+            "img_url": "https://example.com/lentil-soup.jpg"
+          }
+        ],
+        "bio": "Zakir Hossain is a Bangladeshi chef known for his authentic and flavorful Bangladeshi dishes."
+      }
