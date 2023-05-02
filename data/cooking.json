@@ -1,25 +1,140 @@
-{
-        "id": 1,
-        "name": "Zakir Hossain",
-        "img_url": "https://example.com/zakir-hossain.jpg",
-        "specialty": "Bangladeshi cuisine",
-        "restaurants": ["Dhaka Kitchen"],
-        "experience": "25+ years",
-        "num_recipes": 300,
-        "awards": ["Best Chef Award 2020"],
-        "recipes": [
-          {
-            "name": "Chicken Biryani",
-            "img_url": "https://example.com/chicken-biryani.jpg"
-          },
-          {
-            "name": "Beef Curry",
-            "img_url": "https://example.com/beef-curry.jpg"
-          },
-          {
-            "name": "Lentil Soup",
-            "img_url": "https://example.com/lentil-soup.jpg"
-          }
-        ],
-        "bio": "Zakir Hossain is a Bangladeshi chef known for his authentic and flavorful Bangladeshi dishes."
+[
+  {
+    "id": 1,
+    "name": "Zakir Hossain",
+    "img_url": "https://example.com/zakir-hossain.jpg",
+    "experience": "25+ years",
+    "num_recipes": 300,
+    "likes": 430,
+    "recipes": [
+      {
+        "name": "Chicken Biryani",
+        "img_url": "https://example.com/chicken-biryani.jpg"
+      },
+      {
+        "name": "Beef Curry",
+        "img_url": "https://example.com/beef-curry.jpg"
+      },
+      {
+        "name": "Lentil Soup",
+        "img_url": "https://example.com/lentil-soup.jpg"
       }
+    ],
+    "bio": "Zakir Hossain is a Bangladeshi chef known for his authentic and flavorful Bangladeshi dishes."
+  },
+  {
+    "id": 2,
+    "name": "Tommy Miah",
+    "img_url": "https://example.com/tommy-miah.jpg",
+    "experience": "40+ years",
+    "num_recipes": 500,
+    "likes": 320,
+    "recipes": [
+      {
+        "name": "Fish Curry",
+        "img_url": "https://example.com/fish-curry.jpg"
+      },
+      {
+        "name": "Vegetable Biryani",
+        "img_url": "https://example.com/vegetable-biryani.jpg"
+      },
+      {
+        "name": "Chickpea Stew",
+        "img_url": "https://example.com/chickpea-stew.jpg"
+      }
+    ],
+    "bio": "Tommy Miah is a Bangladeshi chef based in the UK, who is credited with popularizing Bangladeshi cuisine in Britain."
+  },
+  {
+    "id": 3,
+    "name": "Kamal Ahmed",
+    "img_url": "https://example.com/kamal-ahmed.jpg",
+    "experience": "20+ years",
+    "num_recipes": 250,
+    "likes": 420,
+    "recipes": [
+      {
+        "name": "Lamb Curry",
+        "img_url": "https://example.com/lamb-curry.jpg"
+      },
+      {
+        "name": "Mixed Vegetable Curry",
+        "img_url": "https://example.com/mixed-vegetable-curry.jpg"
+      },
+      {
+        "name": "Yellow Lentil Soup",
+        "img_url": "https://example.com/yellow-lentil-soup.jpg"
+      }
+    ],
+    "bio": "Kamal Ahmed is a Bangladeshi chef who runs Kasturi, a popular Bangladeshi restaurant in Dhaka."
+  },
+  {
+    "id": 4,
+    "name": "Sadia Dehlvi",
+    "img_url": "https://example.com/sadia-dehlvi.jpg",
+    "experience": "30+ years",
+    "num_recipes": 200,
+    "likes": 400,
+    "recipes": [
+      {
+        "name": "Biryani",
+        "img_url": "https://example.com/biryani.jpg"
+      },
+      {
+        "name": "Butter Chicken",
+        "img_url": "https://example.com/butter-chicken.jpg"
+      },
+      {
+        "name": "Shahi Tukda",
+        "img_url": "https://example.com/shahi-tukda.jpg"
+      }
+    ],
+    "bio": "Sadia Dehlvi was an Bangladeshi food critic and writer who authored a book on the cuisine of Dhaka."
+  },
+  {
+    "id": 5,
+    "name": "Saira Mohan",
+    "img_url": "https://example.com/saira-mohan.jpg",
+    "experience": "10+ years",
+    "num_recipes": 100,
+    "likes": 350,
+    "recipes": [
+      {
+        "name": "Tandoori Chicken Quesadilla",
+        "img_url": "https://example.com/tandoori-chicken-quesadilla.jpg"
+      },
+      {
+        "name": "Lamb Kofta Burger",
+        "img_url": "https://example.com/lamb-kofta-burger.jpg"
+      },
+      {
+        "name": "Mango Lassi Sorbet",
+        "img_url": "https://example.com/mango-lassi-sorbet.jpg"
+      }
+    ],
+    "bio": "Saira Mohan is a Bangladeshi chef who specializes in fusion cuisine, blending the flavors of her heritage with other culinary traditions."
+  },
+  {
+    "id": 6,
+    "name": "Tina Islam",
+    "img_url": "https://example.com/tina-islam.jpg",
+    "experience": "15+ years",
+    "num_recipes": 80,
+    "likes": 450,
+    "recipes": [
+      {
+        "name": "Shorshe Ilish",
+        "img_url": "https://example.com/shorshe-ilish.jpg"
+      },
+      {
+        "name": "Aloo Posto",
+        "img_url": "https://example.com/aloo-posto.jpg"
+      },
+      {
+        "name": "Mishti Doi",
+        "img_url": "https://example.com/mishti-doi.jpg"
+      }
+    ],
+    "bio": "Tina Islam is a Bangladeshi chef who specializes in traditional Bengali cuisine, and is known for her innovative use of local ingredients and spices."
+  }
+]
