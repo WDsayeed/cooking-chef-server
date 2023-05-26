@@ -17,10 +17,8 @@ app.get('/chef', (req, res)=>{
 
 app.get('/chef/:id', (req, res)=>{
         const id = req.params.id 
-        console.log(id)
         const result = chef.find(data => data.id === parseInt(id))
-        res.send(result)      
-        
+        res.send(result)            
 })
 
 
